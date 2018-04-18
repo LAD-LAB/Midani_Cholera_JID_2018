@@ -15,12 +15,10 @@ We found that machine learning models based on gut microbiota predicted V. chole
 These findings support the hypothesis that abnormal gut microbial communities are a host factor related to V. cholerae susceptibility.
 
 # Overview
-----------
 
 **Raw** nucleotide sequences used in this study can be downloaded from the European Nucleotide Archive under accession number `PRJEB17860`.
 
 **Code** for deriving data, running classifiers, plotting figures, and tabulating data are provided here. 
-
 
     |- README               # description of content
     |
