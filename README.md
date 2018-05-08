@@ -1,5 +1,5 @@
 # Human Gut Microbiota Predicts Susceptibility to Vibrio cholerae Infection
-FS Midani, AA Weil, ... , LA David, and Regina LaRocque. *The Journal of Infectious Diseases*. 2018. </br>
+FS Midani, AA Weil, ... , LA David, and RC LaRocque. *The Journal of Infectious Diseases*. 2018. </br>
 https://doi.org/10.1093/infdis/jiy192
 
 **Background**  </br>
