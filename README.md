@@ -26,6 +26,12 @@ These findings support the hypothesis that abnormal gut microbial communities ar
     |  |- input_data        # raw data
     |    |- onset           # 
     |    |- susceptibility  # 
+    |      |- clinical.ygbr.day.2.txt # clinical variables for each sample
+    |      |- outcomes.ygbr.day.2.txt # cholera outcome for each sample where 1 is infected
+    |      |- splitting.ygbr.day.2.txt # sequencing batch number
+    |      |- otus.ygbr.day.2.txt # OTU table with realtive abundances
+    |      |- otus.ygbr.day.2.absolute.counts.txt # OTU table with absolute abundances
+    |      |- otu_taxa_map.txt maps OTU IDs to taxonomy
     |  |- output_data       # output of previously run classifiers
     |
     |- generate_figures     # code for generating several figures in paper
