@@ -20,12 +20,12 @@ These findings support the hypothesis that abnormal gut microbial communities ar
 
 **Code** for deriving data, running classifiers, plotting figures, and tabulating data are provided here. 
 
-    |- README               # description of content
+    |- README                                      # description of content
     |
-    |- generate_data        # code for running classifiers
-    |  |- input_data        # raw data
-    |    |- onset           # 
-    |    |- susceptibility  # 
+    |- generate_data                               # code for running classifiers
+    |  |- input_data                               # raw data
+    |    |- onset                                  # 
+    |    |- susceptibility                         # 
     |      |- clinical.ygbr.day.2.txt              # clinical variables for each sample
     |      |- outcomes.ygbr.day.2.txt              # cholera outcome for each sample where 1 is infected
     |      |- splitting.ygbr.day.2.txt             # sequencing batch number
@@ -33,12 +33,12 @@ These findings support the hypothesis that abnormal gut microbial communities ar
     |      |- otus.ygbr.day.2.absolute.counts.txt  # OTU table with absolute abundances
     |      |- otu_taxa_map.txt                     # maps OTU IDs to taxonomy
     |
-    |  |- output_data       # output of previously run classifiers
+    |  |- output_data                              # output of previously run classifiers
     |
-    |- generate_figures     # code for generating several figures in paper
-    |  |- figs              # 
+    |- generate_figures                            # code for generating several figures in paper
+    |  |- figs                                     # 
     |
-    |- generate_tables      # code for generating most of the tabulated data in paper
-    |  |- tables            #
+    |- generate_tables                             # code for generating most of the tabulated data in paper
+    |  |- tables                                   #
     |
-    |- generated_clusters   # results of sparcc clustering 
+    |- generated_clusters                          # results of sparcc clustering 
